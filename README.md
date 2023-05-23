@@ -1,4 +1,4 @@
 # QA
 Github Lesson
 # DeveloperAZ.com
-The service for gamers and developers
+The blog for gamers and developers
